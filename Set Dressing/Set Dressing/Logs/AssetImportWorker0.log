@@ -343,3 +343,13 @@ Received Import Request.
 Start importing Assets/New Material.mat using Guid(dd35b867c8569490abdbae9eb807cbba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bce6732d90d7ed0f3c8c8c9a82aa047') in 0.012552 seconds 
   Import took 0.015949 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 755.015463 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.002445 seconds 
+  Import took 0.007632 seconds .
+
+2022-02-08 17:33:57.026 Unity[40936:2357240] HIToolbox: received notification of WindowServer event port death.
+2022-02-08 17:33:57.027 Unity[40936:2357240] port matched the WindowServer port created in BindCGSToRunLoop
