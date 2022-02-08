@@ -798,6 +798,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Unity.Settings.Editor.csproj">
+      <Project>{E137FAC1-6E9B-7944-643B-BDDBFEEA4FA0}</Project>
+      <Name>Unity.Settings.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
       <Project>{8D90F719-D0A9-02AC-83FC-BC5A4BB70634}</Project>
       <Name>UnityEditor.UI</Name>
