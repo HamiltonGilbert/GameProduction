@@ -70,7 +70,8 @@
     <None Include="Assets/Invector-3rdPersonController_LITE/README_Basic.txt" />
     <None Include="Assets/BrokenVector/LowPolyTreePack/README.txt" />
     <None Include="Assets/Fantasy SFX for Particle Distort Texture effect library/readme_Fantasy SFX for Particle Distort Texture effect library.txt" />
-    <None Include="Assets/read me.txt" />
+    <None Include="Assets/Hovl Studio/Procedural fire/Shaders/FireSphere.shader" />
+    <None Include="Assets/Hovl Studio/Procedural fire/Demo scene/Readme.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

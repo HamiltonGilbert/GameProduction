@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class SoundEffect : MonoBehaviour
 {
-    //public
+    //public 
     // Start is called before the first frame update
     void Start()
     {
@@ -19,6 +19,11 @@ public class SoundEffect : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+        GetComponent<AudioSource>().Play();
+    }
 
+    private void OnTriggerExit(Collider other)
+    {
+        GetComponent<AudioSource>().Stop();
     }
 }
