@@ -54,7 +54,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonMotor.cs" />
-    <Compile Include="Assets/8K Skybox Pack Free/Example Scenes/Script/RotateCamera.cs" />
     <Compile Include="Assets/Invector-3rdPersonController_LITE/3D Models/Others/HealthItem/vAnimateUV.cs" />
     <Compile Include="Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vComment.cs" />
     <Compile Include="Assets/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonController.cs" />
@@ -68,6 +67,7 @@
     <None Include="Assets/8K Skybox Pack Free/ReadMe.txt" />
     <None Include="Assets/Invector-3rdPersonController_LITE/README_Basic.txt" />
     <None Include="Assets/BrokenVector/LowPolyTreePack/README.txt" />
+    <None Include="Assets/Hovl Studio/Procedural fire/Shaders/FireSphere.shader" />
     <None Include="Assets/read me.txt" />
   </ItemGroup>
   <ItemGroup>
